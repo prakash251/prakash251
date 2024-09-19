@@ -5,11 +5,7 @@
 <!--<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" height="175" />
 <img src="https://img.freepik.com/premium-photo/programming-background-with-person-working-with-codes-computer_926199-2671876.jpg?w=1380" align="right" width="250" height="200"/> -->
 
-<img src="https://img.freepik.com/premium-photo/programming-background-with-person-working-with-codes-computer_926199-2671876.jpg?w=1380"
-     align="right"
-     width="250"
-     height="200"
-     style="border-radius: 25px;" />
+
 
 
 
@@ -18,6 +14,12 @@
 🎓 B.Tech in CSE  
 🚀 Specializing in Spring Boot, REST APIs, and MySQL  
 🔧 Skilled in building end-to-end solutions, from designing and implementing RESTful APIs to creating interactive front-end applications.  
+
+<img src="https://img.freepik.com/premium-photo/programming-background-with-person-working-with-codes-computer_926199-2671876.jpg?w=1380"
+     align="right"
+     width="350"
+     height="300"
+     style="border-radius: 25px;" />
 
 💹 I’m learning React, SpringBoot, Microservices <br>💻 All of my projects are available at github<br>📈I believe in the Long term Growth
 
