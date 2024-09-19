@@ -10,16 +10,18 @@
 
 
 # 🪴 About Me:
-👨‍💻 Java Full-Stack Developer  
-🎓 B.Tech in CSE  
-🚀 Specializing in Spring Boot, REST APIs, and MySQL  
-🔧 Skilled in building end-to-end solutions, from designing and implementing RESTful APIs to creating interactive front-end applications.  
 
 <img src="https://img.freepik.com/premium-photo/programming-background-with-person-working-with-codes-computer_926199-2671876.jpg?w=1380"
      align="right"
      width="350"
      height="300"
      style="border-radius: 25px;" />
+👨‍💻 Java Full-Stack Developer  
+🎓 B.Tech in CSE  
+🚀 Specializing in Spring Boot, REST APIs, and MySQL  
+🔧 Skilled in building end-to-end solutions, from designing and implementing RESTful APIs to creating interactive front-end applications.  
+
+
 
 💹 I’m learning React, SpringBoot, Microservices <br>💻 All of my projects are available at github<br>📈I believe in the Long term Growth
 
