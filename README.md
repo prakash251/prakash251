@@ -9,7 +9,8 @@
 ## Java Frameworks/Libraries:
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) 
 ![Spring MVC](https://img.shields.io/badge/springmvc-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![Hibernate](https://img.shields.io/badge/hibernate-%23232F3E.svg?style=for-the-badge&logo=hibernate&logoColor=green) 
+![Hibernate](https://img.shields.io/badge/hibernate-%234593D1.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+
 ![JPA](https://img.shields.io/badge/JPA-%236DB33F.svg?style=for-the-badge&logo=java&logoColor=white) 
 
 ## JS Framework/Library
@@ -20,7 +21,8 @@
 
 ## Database:
  ![mysql](https://img.shields.io/badge/mysql-%234ea94b.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![oracle](https://img.shields.io/badge/oracle-%234ea94b.svg?style=for-the-badge&logo=oracle&logoColor=white)
+  ![Oracle](https://img.shields.io/badge/oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+
 
 
 ## Version Control:
