@@ -13,8 +13,8 @@
 
 <img src="https://img.freepik.com/premium-photo/programming-background-with-person-working-with-codes-computer_926199-2671876.jpg?w=1380"
      align="right"
-     width="350"
-     height="300"
+     width="200"
+     height="200"
      style="border-radius: 25px;" />
 👨‍💻 Java Full-Stack Developer  
 🎓 B.Tech in CSE  
