@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Hola,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> I'm Gutta Omprakash</h1>
+<h1 align="center"> Hola,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Gutta Omprakash</h1>
 
 <!--<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" height="175" />
 <img src="https://img.freepik.com/premium-photo/programming-background-with-person-working-with-codes-computer_926199-2671876.jpg?w=1380" align="right" width="250" height="200"/> -->
